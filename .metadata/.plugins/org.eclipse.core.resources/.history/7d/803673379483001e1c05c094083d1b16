@@ -12,7 +12,7 @@ public interface EmployeeService {
 	// Update the Employee Data
 	public Employee updateEmployee(Employee employee);
 	
-	//Get AllEmployee Data
+	//Update the Employee Data
 	public List<Employee> getAllEmployee();
 	
 	//Get Employee Data best on Id
